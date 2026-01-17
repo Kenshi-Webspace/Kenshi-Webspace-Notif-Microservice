@@ -2,7 +2,7 @@
 Microservice for Kenshi Webspace to handle push notifs, emails and other smtp communications.
 
 ## System Design-
-   <img src="public/system-design.png" alt="System Design Diagram" width="600"/>
+   <img src="src/public/System_Design_Kenshi-Webspace_Notif_Sys.png" />
 ## Plan-
 
 ```
